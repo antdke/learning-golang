@@ -5,6 +5,8 @@ import "fmt"
 func main() {
 	// data types are tracked like in TypeScript
 	// every variable has to be used
+	// uninitialized variables are zero-valued
+
 	const name = "Anthony Diké"
 
 	// Shorthand
